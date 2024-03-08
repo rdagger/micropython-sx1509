@@ -1,0 +1,8 @@
+.flake8
+.ftpconfig
+.micropico
+.pylintrc
+.vscode/
+dev-requirements.txt
+micropy.json
+requirements.txt
