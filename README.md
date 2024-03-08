@@ -24,10 +24,10 @@ This library includes several demos showcasing different features of the SX1509:
 - **Analog Output (PWM):** Control the brightness of an LED connected to an SX1509 pin using PWM.
 - **Blink:** Make an LED blink using the SX1509's built-in blink functionality.
 - **Breathe:** Create a breathing LED effect with the SX1509's breathe function.
-- **Input Interrupt:** Use the SX1509 to detect button presses and generate interrupts.
 - **Input:** Read the state of a button connected to the SX1509.
-- **Keypad Interrupt:** Monitor a keypad and detect button presses using the SX1509's interrupt feature.
+- **Input Interrupt:** Use the SX1509 to detect button presses and generate interrupts.
 - **Keypad:** Read button presses from a keypad using the SX1509.
+- **Keypad Interrupt:** Monitor a keypad and detect button presses using the SX1509's interrupt feature.
 - **Output:** Control an LED on and off using the SX1509's digital output feature.
 
 Each example includes a detailed explanation of the hardware setup and the code required to run the demo.
