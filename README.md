@@ -32,6 +32,12 @@ This library includes several demos showcasing different features of the SX1509:
 
 Each example includes a detailed explanation of the hardware setup and the code required to run the demo.
 
+## Demo Project
+
+There's a full write-up of a project using the SX1509 on my website [Rototron](https://www.rototron.info/projects/adventure-pod/) or click picture below for a YouTube video:
+
+[![ILI9341 Tutorial](https://img.youtube.com/vi/b63ZPafPQVM/sddefault.jpg)](https://youtu.be/b63ZPafPQVM )
+
 ## Acknowledgments
 
 This library is a MicroPython port of the original [SparkFun SX1509 Arduino Library](https://github.com/sparkfun/SparkFun_SX1509_Arduino_Library). Special thanks to SparkFun for their work on developing and maintaining the Arduino version of this library.
